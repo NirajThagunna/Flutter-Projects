@@ -60,7 +60,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 style: GoogleFonts.montserrat(
                   color: Colors.black,
                   fontWeight: FontWeight.w700,
-                  fontSize: 22,
+                  fontSize: 2
                 ),
               ),
               const SizedBox(
